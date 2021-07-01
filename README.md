@@ -1,2 +1,0 @@
-# Narmej
-Práctica de bioestadística
